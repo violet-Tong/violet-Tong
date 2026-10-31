@@ -7,7 +7,7 @@
 <h3 align="center">🚀 AI Researcher & Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Haoyang%20Liu;AI%20Researcher%20%26%20Developer;Focusing%20on%20LLM%20%26%20MLLM;Exploring%20AIGC%2C%20Diffusion%20%26%20Flow%20Matching;Welcome%20to%20my%20Github!&font=Fira%20Code&center=true&width=800&height=60&duration=2500&pause=1200&color=ff69b4&vCenter=true&size=24" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Xintao%20Tong;AI%20Researcher%20%26%20Developer;Focusing%20on%20LLM%20%26%20MLLM;Exploring%20AIGC%2C%20Diffusion%20%26%20Flow%20Matching;Welcome%20to%20my%20Github!&font=Fira%20Code&center=true&width=800&height=60&duration=2500&pause=1200&color=ff69b4&vCenter=true&size=24" />
 </p>
 
 <p align="center" dir="auto">

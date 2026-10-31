@@ -7,7 +7,7 @@
 <h3 align="center">🚀 AI研究员 & 开发者</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Haoyang%20Liu;AI%20Researcher%20%26%20Developer;Focusing%20on%20LLM%20%26%20MLLM;Exploring%20AIGC%2C%20Diffusion%20%26%20Flow%20Matching;Welcome%20to%20my%20Github!&font=Fira%20Code&center=true&width=800&height=60&duration=2500&pause=1200&color=ff69b4&vCenter=true&size=24" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%BD%9F%E6%98%95%E9%99%B6;AI%20%E7%A0%94%E7%A9%B6%E5%91%98%20%26%20%E5%BC%80%E5%8F%91%E8%80%85;%E4%B8%93%E6%B3%A8%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%A4%9A%E6%A8%A1%E6%80%81;%E6%8E%A2%E7%B4%A2%20AIGC%20%E4%B8%8E%E7%94%9F%E6%88%90%E5%BC%8F%E6%A8%A1%E5%9E%8B;%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE%E6%88%91%E7%9A%84%20GitHub!&font=Fira%20Code&center=true&width=800&height=60&duration=2500&pause=1200&color=ff69b4&vCenter=true&size=24" />
 </p>
 
 <p align="center" dir="auto">

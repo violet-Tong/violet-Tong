@@ -23,4 +23,5 @@
 - ⚙️ **核心技术**: 探索生成式模型 (**Diffusion Models**, **Flow Matching**) 与大模型后训练技术 (**RLHF**, 使用veRL框架的 **GRPO**)。
 - 💡 **目标**: 通过代码与研究来学习和分享知识，致力于为前沿AI技术做出贡献。
 
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
